@@ -8,3 +8,7 @@
 ### Mod.io
   * TimberHUN ID: 4960361 
   * Timberborn ID: 3659
+
+## Change background
+
+Extract this filepath: 	\Assets\Resources\ui\images\loadingscreen\loading_bg_Manual
