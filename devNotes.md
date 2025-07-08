@@ -28,6 +28,13 @@ Once you've identified all the fileds that have been added, you need to add thes
 >[!IMPORTANT]
 >Make sure you've downloaded the latest version of the mod!
 
-10.  Open huHU.
+10.  Open huHU in GitHub (huHU, Localizations, huHU.csv) and click the pencil in top right to edit.
 11.  For the first new field, copy the entire row from enUS. Search huHU for the value in the first column (columns are separated by commas) for the row above and paste the new row after it. (This keeps the order the same.)
 12.  Translate the 3rd column.
+13.  Scroll up and click the green "Commit changes" button
+14.  add change notes of which fields were added, changed, removed.
+
+Publishing to Steam
+
+15.  
+16. 
