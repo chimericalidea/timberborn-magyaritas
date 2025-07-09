@@ -33,8 +33,18 @@ Once you've identified all the fileds that have been added, you need to add thes
 12.  Translate the 3rd column.
 13.  Scroll up and click the green "Commit changes" button
 14.  add change notes of which fields were added, changed, removed.
+15.  Create pull request
+16.  Wait for merge by Thendarion
 
-Publishing to Steam
+Publish to Steam
 
-15.  
-16. 
+18.  Open Timberborn game
+19.  Select Mods from menu
+20.  Tick the mod; then in top right, click update
+21.  Copy the release notes from GitHub into the changelog field in timberborn and click upload
+
+Publish to mod.io
+
+22.  Ensure you have admin role for the mod. Click pencil in top right.
+23.  Add new file.
+24.  Zip the huHU folder, rename it "TimberHUN" and upload it. Version is just digits, no text. 
